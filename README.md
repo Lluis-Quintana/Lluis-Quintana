@@ -61,6 +61,21 @@
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
 </p>
 
+- Technologies I'm interested in learning these technologies;
+
+<p align="center">
+  <a href="https://redux.js.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
+  </a> 
+  <a href="https://github.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" width="40" height="40">
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg" width="40" height="40">
+  </a>
+  <a href="https://firebase.google.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+</p>
 
 <!---
 Lluis-Quintana/Lluis-Quintana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
