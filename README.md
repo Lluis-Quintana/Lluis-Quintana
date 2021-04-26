@@ -65,11 +65,14 @@
 - Technologies I'm interested to learn;
 
 <p align="center">
-  <a href="https://redux.js.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
+  <a href="https://flutter.dev/" target="_blank"> 
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.andreasnesheim.no%2Fwp-content%2Fuploads%2F2019%2F05%2Flogo_flutter_1080px_clr.png&f=1&nofb=1" alt="flutter" width="40" height="40"/> 
+  </a> 
+  <a href="https://nextjs.org/" target="_blank"> 
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcoffeencoding.com%2Fwp-content%2Fuploads%2F2019%2F03%2Fnext-js.png&f=1&nofb=1" alt="nextjs" width="40" height="40"/> 
   </a> 
   <a href="https://www.heroku.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/heroku.svg" width="40" height="40">
+    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/heroku.svg" alt="heroku" width="40" height="40">
   </a>
   <a href="https://www.figma.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> 
