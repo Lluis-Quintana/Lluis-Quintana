@@ -1,4 +1,4 @@
-🙋‍♂️ : ! I’m @Lluis-Quintana and I'm a junior dev completely in love with CSS and with huge interest about learning some new technologies.
+🙋‍♂️ Hi! I’m @Lluis-Quintana and I'm a junior dev completely in love with CSS and with huge interest about learning some new technologies.
 
 
 💻: Technologies I used:
