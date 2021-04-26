@@ -62,7 +62,7 @@
    </a>
 </p>
 
-- Technologies I'm interested to learn;
+- Technologies I'm interested to learn:
 
 <p align="center">
   <a href="https://flutter.dev/" target="_blank"> 
@@ -70,6 +70,9 @@
   </a> 
   <a href="https://nextjs.org/" target="_blank"> 
     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcoffeencoding.com%2Fwp-content%2Fuploads%2F2019%2F03%2Fnext-js.png&f=1&nofb=1" alt="nextjs" width="40" height="40"/> 
+  </a> 
+    <a href="https://nuxtjs.org/" target="_blank"> 
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F4%2F45%2FNuxtJS_Logo.png&f=1&nofb=1" alt="nuxt" width="40" height="40"/> 
   </a> 
   <a href="https://www.heroku.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/heroku.svg" alt="heroku" width="40" height="40">
