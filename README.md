@@ -2,7 +2,7 @@
 
 - Technologies I used:
 
-<p align="center"> 
+<p> 
   <a href="#" target="_blank">
     <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" width="40" height="40">
   </a>
@@ -64,7 +64,7 @@
 
 - Technologies I'm interested to learn:
 
-<p align="center">
+<p>
   <a href="https://flutter.dev/" target="_blank"> 
     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.andreasnesheim.no%2Fwp-content%2Fuploads%2F2019%2F05%2Flogo_flutter_1080px_clr.png&f=1&nofb=1" alt="flutter" width="40" height="40"/> 
   </a> 
