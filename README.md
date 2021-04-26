@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lluis-Quintana and I'm a junior dev completely in love with CSS and with huge interest about ñearning some new technologies.
+- 👋 Hi, I’m @Lluis-Quintana and I'm a junior dev completely in love with CSS and with huge interest about learning some new technologies.
 
 - I'm usually working with React but I tried Vue, Angular, Svelte and Dart in frontend
 
