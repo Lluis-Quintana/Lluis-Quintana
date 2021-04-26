@@ -5,7 +5,6 @@
 - I want to try NextJS, Nuxt and Flutter.
 
 - Technologies I used:
- css3 express figma firebase git javascript jest mongodb nodejs photoshop postman react redux sass 
 
 <!---
 Lluis-Quintana/Lluis-Quintana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
