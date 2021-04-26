@@ -1,6 +1,7 @@
 🙋‍♂️ Hi! I’m @Lluis-Quintana and I'm a junior dev completely in love with CSS and with huge interest about learning some new technologies.
 
 
+
 💻: Technologies I used:
 
 <p> 
@@ -63,6 +64,7 @@
    </a>
 </p>
 
+
 👨‍🎓 Technologies I'm interested to learn:
 
 <p>
@@ -88,6 +90,7 @@
 I started to learn some web dev tools around 5 years ago and I became completely amazed by everything I can create with some lines of code and I became very curious about new technologies in dev world.
 At the beginning of 2021 I did a coding bootcamp al Skylab Coder's Academy in Barcelona. Just before finishing the bootcamp they offered me the possibility to became an assistant teacher in next one, and I accepted because it was an excellent oportunity to learn more and redo the bootcamp but in a very different way.
 That's how my history started as a web dev 😄
+
 
 <!---
 Lluis-Quintana/Lluis-Quintana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
