@@ -87,7 +87,7 @@
 
 📖 My history:
 
-I started to learn some web dev tools at 2016 and I became completely amazed by everything I can create with some lines of code and I was very curious about new technologies in dev world.
+I started to learn some web dev tools at 2016 just for fun and I became completely amazed by everything I can create with some lines of code and I was very curious about new technologies in dev world.
 At the beginning of 2021 I did a coding bootcamp al Skylab Coder's Academy in Barcelona. Just before finishing the bootcamp they offered me the possibility to became an assistant teacher in next one, and I accepted because it was an excellent oportunity to learn more and redo the bootcamp but in a very different way.
 That's how my history started as a web dev 😄
 
