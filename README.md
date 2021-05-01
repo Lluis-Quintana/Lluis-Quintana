@@ -94,8 +94,10 @@ At the beginning of 2021 I did a coding bootcamp al Skylab Coder's Academy in Ba
 That's how my history started as a web dev 😄
 
 
+🎆 My LinkedIn:
+
 <section>
-  <a href="https://www.linkedin.com/in/lluis-quintana-frontend-developer/" align="center"> 
+  <a href="https://www.linkedin.com/in/lluis-quintana-frontend-developer/"> 
     <img src="https://img.icons8.com/color/80/000000/linkedin.png" alt="linkedin_logo" />
   </a>    
 </section>
