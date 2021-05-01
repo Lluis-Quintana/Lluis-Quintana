@@ -84,6 +84,8 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> 
   </a
 </p>
+    
+ 
 
 📖 My history:
 
@@ -91,12 +93,16 @@ I started to learn some web dev tools at 2016 just for fun and I became complete
 At the beginning of 2021 I did a coding bootcamp al Skylab Coder's Academy in Barcelona. Just before finishing the bootcamp they offered me the possibility to became an assistant teacher in next one, and I accepted because it was an excellent oportunity to learn more and redo the bootcamp but in a very different way.
 That's how my history started as a web dev 😄
 
+<section class="social_media">
+  <a href="https://www.linkedin.com/in/lluis-quintana-frontend-developer/"> 
+    <img src="https://img.icons8.com/color/80/000000/linkedin.png" alt="linkedin_logo" />
+  </a>    
+</section>
+
 
 <!---
 Lluis-Quintana/Lluis-Quintana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-<styles>
-  body{background:red;}
-</styles>
+
