@@ -99,7 +99,7 @@ That's how my history started as a web dev 😄
   border: 0.125em solid #1385f7;
   border-radius: .25em;
   box-shadow:inset 0 0 .75em 0 #1385f7, 0 0 1em #1385f7;">
-  <a href="https://www.linkedin.com/in/lluis-quintana-frontend-developer/" style="font-size: 4rem; position: relative; padding:10px 10px 0; border: 0.125em solid #1385f7; border-radius: .25em; box-shadow:inset 0 0 .75em 0 #1385f7, 0 0 1em #1385f7"> 
+  <a href="https://www.linkedin.com/in/lluis-quintana-frontend-developer/"> 
     <img src="https://img.icons8.com/color/80/000000/linkedin.png" alt="linkedin_logo" />
   </a>    
 </section>
