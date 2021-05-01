@@ -93,8 +93,13 @@ I started to learn some web dev tools at 2016 just for fun and I became complete
 At the beginning of 2021 I did a coding bootcamp al Skylab Coder's Academy in Barcelona. Just before finishing the bootcamp they offered me the possibility to became an assistant teacher in next one, and I accepted because it was an excellent oportunity to learn more and redo the bootcamp but in a very different way.
 That's how my history started as a web dev 😄
 
-<section class="social_media">
-  <a href="https://www.linkedin.com/in/lluis-quintana-frontend-developer/"> 
+<section class="social_media" style="  font-size: 4rem;
+  position: relative;
+  padding:10px 10px 0;
+  border: 0.125em solid #1385f7;
+  border-radius: .25em;
+  box-shadow:inset 0 0 .75em 0 #1385f7, 0 0 1em #1385f7;">
+  <a href="https://www.linkedin.com/in/lluis-quintana-frontend-developer/" style="font-size: 4rem; position: relative; padding:10px 10px 0; border: 0.125em solid #1385f7; border-radius: .25em; box-shadow:inset 0 0 .75em 0 #1385f7, 0 0 1em #1385f7"> 
     <img src="https://img.icons8.com/color/80/000000/linkedin.png" alt="linkedin_logo" />
   </a>    
 </section>
