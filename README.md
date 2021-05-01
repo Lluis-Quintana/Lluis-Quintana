@@ -4,6 +4,7 @@
 
 💻: Technologies I used:
 
+
 <p> 
   <a href="#" target="_blank">
     <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" width="40" height="40">
@@ -66,6 +67,7 @@
 
 
 👨‍🎓 Technologies I'm interested to learn:
+
 
 <p>
   <a href="https://flutter.dev/" target="_blank"> 
