@@ -39,6 +39,9 @@
   <a href="https://jestjs.io" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
   </a> 
+  <a href="https://testing-library.com/" target="_blank">
+    <img src="https://testing-library.com/img/octopus-128x128.png" alt="figma" width="40" height="40" /> 
+  </a>
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
   </a> 
@@ -84,9 +87,6 @@
   </a>
   <a href="https://www.figma.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> 
-  </a>
-   <a href="https://testing-library.com/" target="_blank">
-    <img src="https://testing-library.com/img/octopus-128x128.png" alt="figma" width="40" height="40" /> 
   </a>
   <a href="https://www.netlify.com/" target="_blank">
     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F2107%2FPNG%2F512%2Ffile_type_netlify_icon_130354.png&f=1&nofb=1" alt="netlify" width="40" height="40" /> 
