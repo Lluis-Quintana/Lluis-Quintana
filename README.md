@@ -21,16 +21,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a> 
   <a href="https://svelte.dev/" target="_blank"> 
-    <img src="https://spartanroger.gallerycdn.vsassets.io/extensions/spartanroger/svelte-color-theme/0.0.1/1570048691926/Microsoft.VisualStudio.Services.Icons.Default" alt="svelte" width="40" height="40"/> 
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fswiftlet.co.th%2Fwp-content%2Fuploads%2F2022%2F11%2F1200px-Svelte_Logo.svg.png&f=1&nofb=1&ipt=24eb01bb2987b79e841cc2a31f2ba305564ddccb93042dc25760d0e8c7a1535d&ipo=images" alt="svelte" width="40" height="40"/> 
   </a> 
   <a href="https://vuejs.org/" target="_blank"> 
     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Fthumbs%2F2x%2Fvue-9-logo.png&f=1&nofb=1" alt="vue" width="40" height="40"/> 
   </a> 
   <a href="https://dart.dev/" target="_blank"> 
     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstyles.redditmedia.com%2Ft5_2sut9%2Fstyles%2FcommunityIcon_f1uukpexwpj11.jpg&f=1&nofb=1" alt="dart" width="40" height="40"/> 
-  </a> 
-  <a href="https://angular.io/" target="_blank"> 
-    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fuxwing.com%2Fwp-content%2Fthemes%2Fuxwing%2Fdownload%2F07-design-and-development%2Fangular.png&f=1&nofb=1" alt="angular" width="40" height="40"/> 
   </a> 
   <a href="https://getbootstrap.com/" target="_blank">
    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg" width="40" height="40">
