@@ -20,6 +20,9 @@
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a> 
+  <a href="https://nextjs.org/" target="_blank"> 
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcreazilla-store.fra1.digitaloceanspaces.com%2Ficons%2F3244252%2Fnextjs-icon-md.png&f=1&nofb=1&ipt=b131c8aa7cd4787babc4883caa5ad1d95f25d2ffcb35e5a61e1c36c73fa3271f&ipo=images" alt="nextjs" width="40" height="40"/> 
+  </a> 
   <a href="https://svelte.dev/" target="_blank"> 
     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fswiftlet.co.th%2Fwp-content%2Fuploads%2F2022%2F11%2F1200px-Svelte_Logo.svg.png&f=1&nofb=1&ipt=24eb01bb2987b79e841cc2a31f2ba305564ddccb93042dc25760d0e8c7a1535d&ipo=images" alt="svelte" width="40" height="40"/> 
   </a> 
@@ -72,10 +75,7 @@
   <a href="https://flutter.dev/" target="_blank"> 
     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.andreasnesheim.no%2Fwp-content%2Fuploads%2F2019%2F05%2Flogo_flutter_1080px_clr.png&f=1&nofb=1" alt="flutter" width="40" height="40"/> 
   </a> 
-  <a href="https://nextjs.org/" target="_blank"> 
-    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcoffeencoding.com%2Fwp-content%2Fuploads%2F2019%2F03%2Fnext-js.png&f=1&nofb=1" alt="nextjs" width="40" height="40"/> 
-  </a> 
-    <a href="https://nuxtjs.org/" target="_blank"> 
+  <a href="https://nuxtjs.org/" target="_blank"> 
     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F4%2F45%2FNuxtJS_Logo.png&f=1&nofb=1" alt="nuxt" width="40" height="40"/> 
   </a> 
   <a href="https://www.heroku.com/" target="_blank">
